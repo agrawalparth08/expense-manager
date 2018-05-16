@@ -8,5 +8,12 @@ Steps:
 
 3) Divide into the categories you want to visualize
 
+
+![category](https://github.com/agrawalparth08/expense-manager/blob/master/category.png)
+
+
+
 4) Drill down based on yearly/monthly/daily bases
+![monthly](https://github.com/agrawalparth08/expense-manager/blob/master/monthly.png)
+
 
